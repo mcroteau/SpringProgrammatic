@@ -1,3 +1,4 @@
 # README
 
-jar-with-dependencies.jar
+spring context programmatic
+jar with dependencies
