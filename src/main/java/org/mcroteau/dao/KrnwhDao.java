@@ -1,8 +1,6 @@
 package org.mcroteau.dao;
 
-import org.mcroteau.domain.KRNWH;
 import java.util.List;
-
 
 public interface KrnwhDao {
 	

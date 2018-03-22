@@ -39,8 +39,8 @@ public class ApplicationConfig {
 	
 	
     @Bean
-    public DaoImpl dooImpl() {
-		DaoImpl p = new DaoImpl();
+    public KrnwhDaoImpl krnwhDaoImpl() {
+		KrnwhDaoImpl p = new KrnwhDaoImpl();
 		p.setDataSource(dataSource());
         return p;
     }
