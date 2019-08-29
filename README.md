@@ -1,6 +1,6 @@
 # README
 
-#### spring context programmatic
+#### spring config programmatic
 jar with dependencies
 
 
